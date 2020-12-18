@@ -14,7 +14,7 @@
     "d3-request": "^1.0.6",
     "d3-scale": "^3.2.0",
     "d3-selection": "^1.4.0",
-    "dompurify": "^2.0.7",
+    "dompurify": "^2.0.17",
     "lodash.intersection": "^4.4.0",
     "lodash.omit": "^4.5.0",
     "marked": "^0.7.0",
